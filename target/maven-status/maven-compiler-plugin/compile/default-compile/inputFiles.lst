@@ -1,0 +1,10 @@
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\controllers\PostController.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\util\ValidErrorsCreater.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\configs\SwaggerConfig.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\groups\TemplateValidationGroup.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\model\RequestContact.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\responses\Response.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\responses\ErrorResponse.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\responses\ValidError.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\RestServiceApplication.java
+D:\study\other\test-valid-github\VALIDATION.GROUP.TEST\src\main\java\etp\groups\ApplicationValidationGroup.java
